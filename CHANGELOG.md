@@ -23,6 +23,9 @@ When incrementing the version number consider the following:
     3. PATCH version when you make backwards-compatible bug fixes.
 <!-- Add new versions below here -->
 
+## [0.0.2]
+* [CHANGED Misunderstood instructions]
+
 ## [0.0.1]
 * [ADDED] Init deployment
 
